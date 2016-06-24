@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'yuntongxun/version'
 
 Gem::Specification.new do |s|
-  s.name          = 'yuntongxun'
+  s.name          = 'yuntongxun-api'
   s.version       = YunTongXun::VERSION
   s.date          = '2016-06-23'
   s.summary       = "Ruby SDK for 容联云通讯 development"
