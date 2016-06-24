@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.description   = "Ruby SDK for 容联云通讯 development"
   s.authors       = ["fwshun8023"]
   s.email         = ['fwshun8023@gmai.com']
-  s.homepage      = 'https://github.com/fwshun8023/yuntongxun'
+  s.homepage      = 'https://github.com/fwshun8023/yuntongxun-api'
   s.license       = 'MIT'
 
   s.files         = `git ls-files`.split($/)
